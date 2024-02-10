@@ -1,28 +1,33 @@
-# Create T3 App
+# ![PlanHub](https://i.postimg.cc/zvC07Qsm/image.png)
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+[PlanHub](https://plantoproject.up.railway.app/) is a revolutionary platform designed to streamline the process of transforming startup ideas into viable business plans. With PlanHub, entrepreneurs can save valuable time by automating the research, conceptualization, and planning phases, enabling them to focus on bringing their vision to life.
 
-## What's next? How do I make an app with this?
+- Please look [into the powerpoint](https://docs.google.com/presentation/d/1OtWD5ZRiOykuIEs6cNa-kbFaG1LFl_tDyURMxdnPWLo/edit?usp=sharing) for a better understanding about the project!
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+## Features
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+- **User Authentication**: Sign up or log in to access the platform and generate project plans.
+- **Project Generation**: Create comprehensive project plans with ease.
+- **Project Overview**: View an overview of generated project plans, including suggested names, user pain points, font suggestions, required features, and more.
+- **Market Analysis**: Access detailed market analysis to better understand market trends and opportunities.
+- **Design Integration**: Receive suggestions for design elements and aesthetics to enhance project presentation.
+- And a lot **more!**
+## Contributing
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+We welcome contributions from the community to enhance PlanHub and make it even more powerful. If you'd like to contribute, please follow these guidelines:
 
-## Learn More
+- Fork the repository.
+- Create a new branch for your feature or enhancement.
+- Setup .env
+- run ```npm install```
+- Make your changes and commit them with descriptive messages.
+- Push your changes to your fork.
+- Submit a pull request to the main repository.
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
+## Feedback
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+We value your feedback! If you have any questions, suggestions, or issues, please don't hesitate to reach out to me. You can contact me via email at [devansh18dp@gmail.com](mailto:devansh18dp@gmail.com) or open an issue on GitHub.
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+## License
 
-## How do I deploy this?
-
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
